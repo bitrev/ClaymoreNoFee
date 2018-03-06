@@ -1,4 +1,4 @@
 # ClaymoreNoFee
-This is version witht disabled developer fee.
+This is version with disabled developer fee.
 
 Enjoy....
